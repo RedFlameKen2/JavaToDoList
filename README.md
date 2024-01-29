@@ -1,3 +1,7 @@
 # JavaToDoList
 
-I don't know about you, but this is real fockin goofy
+This is the start of something... just something...?
+here's to test some formatting
+
+~breh~
+*breh*
